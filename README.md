@@ -37,7 +37,9 @@ RUNNING MadLib.py within a Windows Command Prompt:
 
 Next, you will need to navigate to the folder where the Python file is located. We do this with the cd command:
 
-4. Command to type in: "cd C:\FolderPath\Where\ThePython\FileIs\Located'. If you have just downloaded the MadLib.py file and still have your downloads going to the default Windows folder, you can just use the command "cd downloads".
+4. Command to type in: "cd C:\FolderPath\Where\ThePython\FileIs\Located'. 
+
+If you have just downloaded the MadLib.py file and still have your downloads going to the default Windows folder, you can just use the command "cd downloads".
 
 Next, we need to run the Python File:
 
