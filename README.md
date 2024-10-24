@@ -14,7 +14,7 @@ These instructions will install the necessary software in order to run the code 
 
 3. You will see many versions of Python available, download the one titled "Python 3.13"
 
-![alt text](https://imgur.com/a/MiFNBqz)
+![alt text](https://i.imgur.com/2TP0Kwu.png)
 
 4. 
 
