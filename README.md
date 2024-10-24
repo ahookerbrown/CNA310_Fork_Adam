@@ -1,6 +1,7 @@
 # Python MadLib Instructions
 
 https://github.com/ahookerbrown/CNE310_Adam
+
 This repository (link above) includes a python file with code that allows you to play a fun and immersive MadLib experience.
 
 ## Getting Started
