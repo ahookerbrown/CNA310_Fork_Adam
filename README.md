@@ -6,7 +6,17 @@ This repository (link above) includes a python file with code that allows you to
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo].
+These instructions will install the necessary software in order to run the code within the MadLib.py file.
+
+1. Open the Microsoft Store app by going to your Start menu, and search for "Microsoft Store" to find the application.
+
+2. Within Microsoft Store, search for "python"
+
+3. You will see many versions of Python available, download the one titled "Python 3.13"
+
+![alt text](https://imgur.com/a/MiFNBqz)
+
+4. 
 
 ### Prerequisites
 
