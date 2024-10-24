@@ -21,8 +21,6 @@ INSTALLING PYTHON 3.13:
 
 3. You will see many versions of Python available, Install the one titled "Python 3.13" (See below)
 
-![alt text](https://i.imgur.com/2TP0Kwu.png)
-
 4. Now, you have the required software to run the MadLib.py file
 ```
 
